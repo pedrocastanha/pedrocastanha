@@ -2,7 +2,7 @@
 
 #
 
-<p align="center">Estudante de Engenharia de Software na Faculdade Unicesumar de Maringá. Atualmente trabalho com Python e N8N, mas estudo Java paralelamente.
+<p align="center">Estudante de Engenharia de Software na Faculdade Unicesumar de Maringá. Atualmente trabalho com Python e desenvolvimento aplicações via LangChain e LangGraph.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
