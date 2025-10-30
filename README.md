@@ -2,7 +2,7 @@
 
 #
 
-<p align="center">Estudante de Engenharia de Software na Faculdade Unicesumar de Maringá. Atualmente trabalho com Python e desenvolvimento aplicações via LangChain e LangGraph.
+<p align="center">Estudante de Engenharia de Software na Faculdade Unicesumar de Maringá. Entusiasta de Inteligências Artificiais, atualmente trabalho com Python e desenvolvimento aplicações via LangChain e LangGraph.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
