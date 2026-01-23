@@ -2,8 +2,11 @@
 
 #
 
-<p align="center">Estudante de Engenharia de Software na Faculdade Unicesumar de Maringá. Entusiasta de Inteligências Artificiais, atualmente trabalho com Python e desenvolvimento aplicações via LangChain e LangGraph.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">I'm a Software Engineering student and passionate about Artificial Intelligence. Currently, I work as a developer for a university, where I develop solutions involving AI, automation, and backend systems. A large part of my day-to-day work revolves around creating products that truly solve problems, from conception to production integration.
+
+my main projects involve knowledge-based chatbots using Pinecone (RAG), intelligent analysis of pull requests and Git repositories, the use of AI for automatic task correction, and the development of recommendation algorithms with Machine Learning. I focus heavily on building APIs in Python, especially for integrations with AI models, and I often orchestrate and integrate these solutions into backends developed with NestJS.
+
+i like to keep up with the evolution of artificial intelligence, especially LLMs, autonomous agents, and new architectures, and I seek to learn both through practice and by observing the experiences of other developers.
   
 #
 
