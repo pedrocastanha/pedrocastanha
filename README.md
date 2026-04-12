@@ -43,15 +43,7 @@ I like to keep up with the evolution of artificial intelligence, especially LLMs
 #
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocastanha&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF00F6&text_color=ffffff"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=pedrocastanha&theme=dark&hide_border=true&background=0d1117&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrocastanha&theme=github_dark" />
 </div>
 
 #
